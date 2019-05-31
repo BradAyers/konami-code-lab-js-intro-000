@@ -13,7 +13,7 @@ const codes = [
 function init () {
   const input = document.querySelector('input')
   console.log('init');
-  input.addEventListener('keydown', onKeyDownHandler;
+  input.addEventListener('keydown', onKeyDownHandler);
 };
 
 // Keys for A, B, and C keys.
