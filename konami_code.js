@@ -36,4 +36,6 @@ function onKeyDownHandler(e) {
   }
 }
 
-document.body.addEventListener('keydown', onKeyDownHandler(event));
+const input = document.querySelector('input')
+
+document.body.input.addEventListener('keydown', onKeyDownHandler(event));
