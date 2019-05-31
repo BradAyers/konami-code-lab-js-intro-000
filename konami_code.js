@@ -11,8 +11,6 @@ const codes = [
   "a"
 ];
 
-init();
-
 // Keys for A, B, and C keys.
 const alphabet = ['a', 'b', 'c'];
 
