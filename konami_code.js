@@ -36,4 +36,4 @@ function onKeyDownHandler(e) {
 
 const input = document.querySelector('input')
 
-document.body.input.addEventListener('keydown', onKeyDownHandler(event));
+input.addEventListener('keydown', onKeyDownHandler(event));
